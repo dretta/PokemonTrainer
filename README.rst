@@ -2,21 +2,35 @@ Pokemon Trainer is Machine Learning extension of Twitch Plays Pokemon Battle Rev
 
 Development (To-Do) Plan:
 
-Data Retrieval: Proven do-able prior to project creation, implementation is WIP
-Pre-processing 1 (Image to Text)
-Pre-processing 2 (Text to Feature)
-Model Training
-Model Testing
-Integration (optional)
-Refactoring/Extras?
+* Data Retrieval: Proven do-able prior to project creation; implementation is WIP
+
+* Pre-processing 1 (Image to Text)
+
+* Pre-processing 2 (Text to Feature)
+
+* Model Training
+
+* Model Testing
+
+* Integration (optional)
+
+* Refactoring/Extras?
+
+* **Figure out this readme formatting!** :(
 
 Requirements (will move this to requirements file):
-A Linux Distribution, Ubuntu is recommended
-Python 3 (This is a python project after all...)
-Streamlink ( https://github.com/streamlink/streamlink )
-Curl (`sudo apt install curl`)
-ffmpeg ( https://ffmpeg.org )
-Others as they're added to the project...
+
+* A Linux Distribution, Ubuntu is recommended
+
+* Python 3 (This is a python project after all...)
+
+* Streamlink ( https://github.com/streamlink/streamlink )
+
+* Curl (`sudo apt install curl`)
+
+* ffmpeg ( https://ffmpeg.org )
+
+* Others as they're added to the project...
 
 
 Q&A:
