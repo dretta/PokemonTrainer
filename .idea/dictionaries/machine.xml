@@ -2,6 +2,7 @@
   <dictionary name="machine">
     <words>
       <w>ffmpeg</w>
+      <w>streamlink</w>
     </words>
   </dictionary>
 </component>
