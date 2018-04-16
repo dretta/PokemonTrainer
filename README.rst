@@ -2,9 +2,9 @@ Pokemon Trainer is Machine Learning extension of Twitch Plays Pokemon Battle Rev
 
 Development (To-Do) Plan:
 
-* Data Retrieval: Proven do-able prior to project creation; implementation is WIP
+* Data Retrieval: Implemented example stream to image sequence, will be revisited later in development.
 
-* Pre-processing 1 (Image to Text)
+* Pre-processing 1 (Image to Text): WIP
 
 * Pre-processing 2 (Text to Feature)
 
@@ -15,8 +15,6 @@ Development (To-Do) Plan:
 * Integration (optional)
 
 * Refactoring/Extras?
-
-* **Figure out this readme formatting!** :(
 
 Requirements (will move this to requirements file):
 
