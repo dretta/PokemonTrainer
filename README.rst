@@ -75,3 +75,7 @@ some of this software for the first time. I don't know if this is completable or
 
 The structure of this project was made in https://github.com/kennethreitz/samplemod please note that some sample
 code still exists here.
+
+* Why haven't you pushed anything in a while? Have you given up?
+
+I haven't given up! I'm actively looking for another job and putting this project on hiatus until I find one. 
